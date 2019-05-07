@@ -3,7 +3,12 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+basemenor = 2;
+basemaior = 3;
+altura = 10;
+area = ((basemaior+basemenor)*altura)/2;
+
+print("A area do trapezio e igual a ", area);
 ```
 
 # Advanced usage
